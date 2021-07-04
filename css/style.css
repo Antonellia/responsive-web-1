@@ -1,0 +1,120 @@
+dl{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+h1.sneaker{
+    text-align: center;
+}
+body{
+    font-family:Calibri;
+    font-size: 20px;
+}
+dt:link{
+    color: #94E4D7;
+    text-decoration: none;
+}
+dt:visited{
+    color: #32B4BE;
+}
+nav{
+    font-size: 20px;
+    color: #94E4D7;
+}
+li :hover{
+    color: #DA781E;
+}
+dt :hover{
+    color: #DA781E;
+}
+a.swoosh{
+    color:#94E4D7;
+}
+a.unten{
+    color:#94E4D7;
+}
+img.alt{
+    display: flex;
+    align-content: center;
+    width: 70%;
+    height: 70%;
+}
+
+div.l2r {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+a:link{
+    color: #94E4D7;
+    text-decoration:none;
+}
+
+a:visited{
+    color: #32B4BE;
+}
+a:hover{
+    color: #DA781E;
+    text-decoration: underline;
+}
+
+dl{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+h1.sneaker{
+    text-align: center;
+}
+body{
+    font-family:Calibri;
+    font-size: 20px;
+}
+dt:link{
+    color: #94E4D7;
+    text-decoration: none;
+}
+dt:visited{
+    color: #32B4BE;
+}
+nav{
+    font-size: 20px;
+    color: #94E4D7;
+}
+li :hover{
+    color: #DA781E;
+    text-decoration: underline;
+}
+dt :hover{
+    color: #DA781E;
+    text-decoration: underline;
+}
+a.swoosh{
+    color:#94E4D7;
+}
+a.unten{
+    color:#94E4D7;
+}
+img.alt{
+    display: flex;
+    align-content: center;
+    width: 70%;
+    height: 70%;
+}
+div.l2r {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+h2 {
+    text-align: start;
+}
+
+a {
+    color: #9F81F7;
+}
+.back {
+    font-size: 20px;
+    color: #FF00BF;
+}

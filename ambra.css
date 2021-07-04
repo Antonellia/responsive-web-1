@@ -1,0 +1,160 @@
+.menu ul {
+  display: inline-flex;
+  margin: 50px;
+}
+.menu ul li{
+  list-style: none;
+  margin: 0 20px;
+  color: #9F81F7;
+  cursor: pointer;
+}
+.active:hover {
+  color: #FF00BF !important;
+}
+
+body{
+  background-color:#A9BCF5;
+  color: white;
+  padding-right: 70px;
+  padding-left: 20px;
+}
+h1 #link1{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.ambra{
+  border-radius: 100%;
+  margin-top: 10px;
+  border: 4px solid;
+  height: 200px;
+  width: 150px;
+}
+.logo{
+  height: 50px;
+  width: 50px;
+}
+h1{
+border-bottom: 2px solid white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+p.mitte {
+  text-align: center;
+}
+p{
+  font-style: normal;
+  font-weight: normal;
+  margin-top: 20px;
+}
+
+a:visited{
+  color: #32B4BE;
+}
+a:hover{
+  color: #DA781E;
+  text-decoration: underline;
+}
+
+dl{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+h1.sneaker{
+  text-align: center;
+}
+body{
+  font-family: inherit;
+  font-size: 20px;
+}
+dt:link{
+  color: #94E4D7;
+  text-decoration: none;
+}
+dt:visited{
+  color: #32B4BE;
+}
+nav{
+  font-size: 20px;
+  color: #94E4D7;
+}
+li :hover{
+  color: #DA781E;
+  text-decoration: underline;
+}
+dt :hover{
+  color: #DA781E;
+  text-decoration: underline;
+}
+
+a.unten{
+  color:#94E4D7;
+}
+img.alt{
+  display: flex;
+  align-content: center;
+  width: 70%;
+  height: 70%;
+}
+
+div.l2r {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+a {
+color: #9F81F7;
+}
+
+
+.sneaker {
+  margin-top: 80px;
+}
+
+ul :hover {
+  color: #da781e;
+}
+form {
+  padding-left: 500px;
+}
+
+.spotify {
+  margin-left: 500px;
+}
+
+.titel {
+  color: #FF00BF;
+  font-size: 20px;
+  margin-top: 250px;
+  margin-left: 545px;
+}
+
+
+li {
+  display: inline-block;
+  list-style-type: none;
+  width: 45%;
+}
+
+img {
+  padding: 0;
+  margin: 0;
+  width: 100%;  /* Bild passt sich an verfügbaren Raum im li an */
+}
+
+button {
+  padding: 0.1em;
+}
+
+/* Large screens */
+@media all and (min-width: 35em) {
+ 
+
+  button:focus,
+  button:hover {
+    background: #09c;
+  }
+}
+
+
+
